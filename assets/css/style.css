@@ -63,6 +63,8 @@ p {
 
 .page-footer {
   margin: 0;
+  color: black;
+  height: 50px;
 }
 
 body {
@@ -75,4 +77,14 @@ body {
 
 #headShotSec {
   width: 90%;
+  max-width: 240px;
+}
+
+.contactIcon {
+  width: 100%;
+  margin-top: 10px;
+}
+
+#headshotImage {
+  width: 100%;
 }
